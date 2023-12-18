@@ -1,0 +1,5 @@
+PUT-A-Apple
+PUT-B-Ball
+PUT-C-Cat
+PUT-D-Dog
+GET-D
